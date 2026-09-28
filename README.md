@@ -1,0 +1,1 @@
+Ejercicio de revision aplicando un enfoque estructurado Top-Down Aprendiendo a estructurar un programa modular que calcule el área de un círculo utilizando la fórmula matemática: A = π * r², dicho programa pedira que el usuario ingrese el radio del circulo en centimetros y devolvera el area de este mismo con un grafico render de la diana en consola.# Calculo_Area_Circulo
